@@ -4,5 +4,6 @@
 #pragma once
 
 #include <iostream>
+#include "menagestudents.h"
 
 // TODO: Reference additional headers your program requires here.
